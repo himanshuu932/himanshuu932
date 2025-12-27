@@ -54,13 +54,13 @@
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,bootstrap" />
 <br><strong>Frontend</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,firebase,jwt,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,firebase" />
 <br><strong>Backend & Databases</strong>
 </td>
 </tr>
