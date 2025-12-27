@@ -1,21 +1,136 @@
-# 💫 About Me:
-Numbr
+# Hi there, I'm Himanshu Upadhyay 👋
 
+### Full-Stack Developer | Competitive Programmer | Open Source Enthusiast
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuu932@gmail.com) 
+I'm a Computer Science student at MMMUT with a passion for building scalable applications that solve real-world problems. I've developed and deployed 10+ full-stack projects serving over 1,000 users, including government and educational systems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshuu932&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=himanshuu932&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu932&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=himanshuu932&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himanshuu932&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/himanshuu932?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/himanshuu932?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himanshuu932&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Currently Working On
+
+- **Numbr** - A mobile app revolutionizing barbershop queue management with real-time updates
+- Leading the **Coders & Developers Club** at MMMUT as Vice President
+- Exploring advanced algorithms and system design patterns
+
+---
+
+## 💼 Professional Experience
+
+**SDE Intern @ Nagar Nigam Gorakhpur** (May 2025 - July 2025)
+- Led a 3-member team to develop a digital dog licensing system
+- Reduced processing time from 3 days to under 1 hour (97% improvement)
+- Cut manual paperwork by 70% through automated workflows
+
+**Full-Stack Developer @ DAV PG College** (March 2025 - May 2025)
+- Built the official website serving 5,000+ monthly visitors
+- Reduced future maintenance by 40% with modular React components
+
+---
+
+## 🏆 Featured Projects
+
+### [Numbr](https://github.com/himanshuu932/numbr) 
+**React Native • Node.js • WebSockets**
+- Mobile app for real-time barbershop queue management
+- Reduced average waiting time by 25% during beta testing
+- Currently serving 150+ users across 3 local shops
+
+### [Peek-PDF](https://github.com/himanshuu932/peek-pdf)
+**React • Node.js • Google Document AI**
+- AI-powered PDF management system handling 1,200+ documents
+- Reduced document retrieval time from 3-4 minutes to under 10 seconds
+- Improved search accuracy by 90% using Generative AI
+
+### [Pothole Detection System](https://github.com/himanshuu932/pothole-detection)
+**React • Flask • YOLOv8n • Computer Vision**
+- Web-based tool for automated road anomaly detection
+- Trained on 47,000+ annotated images with 72% accuracy
+- Reduced manual inspection time by 70%
+
+---
+
+## 🎯 Competitive Programming
+
+- 🥈 **1st Runner-Up** - HackBlitz by Google Developers Group (300+ participants)
+- ⭐ **CodeChef**: 4-Star (Max Rating: 1827) | Global Rank 309/38,000+ in Starters-181
+- 💻 **Codeforces**: Specialist (Max Rating: 1500)
+
+<p align="left">
+  <a href="https://www.codechef.com/users/himanshuu932"><img src="https://img.shields.io/badge/CodeChef-4⭐-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/></a>
+  <a href="https://codeforces.com/profile/himanshuu932"><img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuu932&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu932&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu932&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshuu932&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:himanshuu932@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-upadhyay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://himanshu-upadhyay-zyro.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.topcoder.com/members/274203"><img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Building solutions that make a difference, one commit at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
