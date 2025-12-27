@@ -42,6 +42,15 @@
 </div>
 
 ---
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+|------|------------|-----------|
+| **Numbr** | Smart queuing app for barbershops with real-time updates (150+ users tested) | React Native, Node.js, Socket.io |
+| **Peek-PDF** | AI-powered PDF management system with GenAI chatbot (1,200+ docs) | React, Express, Document AI |
+| **Pothole Detection** | Computer vision system using YOLOv8n (72% accuracy) | Python, Flask, OpenCV |
+
+---
 
 ## 💻 Languages & Tools
 
@@ -54,7 +63,7 @@
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,expo,tailwind,html,css,bootstrap" />
 <br><strong>Frontend</strong>
 </td>
 </tr>
@@ -66,7 +75,7 @@
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,ngnix,vercel,render,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,vercel,netlify" />
 <br><strong>DevOps & Tools</strong>
 </td>
 </tr>
