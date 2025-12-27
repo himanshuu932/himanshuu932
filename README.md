@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshuu932&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -25,12 +25,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himanshuu932&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu932&layout=compact&theme=tokyonight" width="48%" />
-</div>
 
-<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu932&theme=tokyonight" width="98%" />
