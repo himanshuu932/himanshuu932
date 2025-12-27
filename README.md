@@ -51,7 +51,9 @@
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" />
+ <img src="https://skillicons.dev/icons?i=react,expo,tailwind,html,css,bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React Native"/>
+ 
 <br><strong>Frontend</strong>
 </td>
 </tr>
