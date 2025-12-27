@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshuu932&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+---
 
 ## 🤝 Connect With Me
 
@@ -12,34 +13,35 @@
 <a href="mailto:himanshuu932@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="[https://www.linkedin.com/in/Himanshu](https://www.linkedin.com/in/himanshu-upadhyay-2309a1298)">
+
+<a href="https://www.linkedin.com/in/himanshu-upadhyay-2309a1298">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.codechef.com/users/himanshu932">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+
 <a href="https://codeforces.com/profile/himanshucoder247">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/himanshucoder247">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://himanshu-upadhyay-zyro.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
-
-
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu932&theme=tokyonight" width="98%" />
 </div>
-
-## 🚀 About Me
-
-- 🎓 **Computer Science Undergraduate** at **Madan Mohan Malaviya University of Technology (MMMUT)** with **CGPA: 8.45**
-- 💼 Built **government and educational systems** used by **1,000+ users**
-- 🏆 **Competitive Programmer**  
-  - CodeChef: **4★ (Max 1827)**  
-  - Codeforces: **Specialist (Max 1500)**
-- 🤝 **Vice President**, Coders & Developers Club (MMMUT)
-- 👨‍💻 Portfolio: **https://himanshu-upadhyay-zyro.vercel.app**
 
 ---
 
@@ -107,10 +109,3 @@
 </td>
 </tr>
 </table>
-
----
-
-
----
-
-
