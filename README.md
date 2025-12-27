@@ -2,16 +2,39 @@
 <h3 align="center">CS Undergrad @ MMMUT | Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;CodeChef+4+Star+%E2%AD%90;Codeforces+Specialist;Vice+President+@+CodeC" alt="Typing SVG" />
-</a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshuu932&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="mailto:himanshuu932@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="[https://www.linkedin.com/in/Himanshu](https://www.linkedin.com/in/himanshu-upadhyay-2309a1298)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/himanshu932">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/himanshucoder247">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=himanshuu932&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu932&layout=compact&theme=tokyonight" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu932&theme=tokyonight" width="98%" />
+</div>
 
 ## 🚀 About Me
 
@@ -92,34 +115,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himanshuu932&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu932&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu932&theme=tokyonight" width="98%" />
-</div>
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="center">
-<a href="mailto:himanshuu932@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="[https://www.linkedin.com/in/Himanshu](https://www.linkedin.com/in/himanshu-upadhyay-2309a1298)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/himanshu932">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/himanshucoder247">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-</p>
