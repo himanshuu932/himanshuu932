@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshuu932&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <p align="center">
 <a href="mailto:himanshuu932@gmail.com">
@@ -42,42 +40,6 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuu932&theme=tokyonight" width="98%" />
 </div>
-
----
-
-## 💼 Experience
-
-### **SDE Intern | Nagar Nigam Gorakhpur**
-*May 2025 – July 2025*
-- Led a **3-member team** to build a **Digital Dog Licensing System**
-- Tech stack: **React, Node.js, MongoDB**
-- Reduced manual paperwork by **70%**
-- Processing time reduced from **3 days → under 1 hour**
-
-### **Full Stack Developer | DAV PG College**
-*March 2025 – May 2025*
-- Developed the **official college website**
-- Serving **5,000+ monthly visitors**
-- Built modular UI using **React & Tailwind**
-- Integrated **MySQL** for faculty and administrative data
-
----
-
-## 🛠️ Featured Projects
-
-| Project | Description | Tech Stack |
-|------|------------|-----------|
-| **Numbr** | Smart queuing app for barbershops with real-time updates (150+ users tested) | React Native, Node.js, Socket.io |
-| **Peek-PDF** | AI-powered PDF management system with GenAI chatbot (1,200+ docs) | React, Express, Document AI |
-| **Pothole Detection** | Computer vision system using YOLOv8n (72% accuracy) | Python, Flask, OpenCV |
-
----
-
-## 🏆 Achievements
-
-- 🥈 **1st Runner-Up**, HackBlitz (Google Developers Group) — 300+ participants
-- 🌍 **Global Rank 309**, CodeChef Starters-181 (38,000+ participants)
-- 🧠 Solved **500+ DSA problems** across platforms
 
 ---
 
