@@ -60,13 +60,13 @@
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,firebase" />
 <br><strong>Backend & Databases</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,ngnix" />
 <br><strong>DevOps & Tools</strong>
 </td>
 </tr>
