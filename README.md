@@ -29,7 +29,7 @@
 ## 🛠️ Featured Projects
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| **[Numbr](https://play.google.com/store/apps/details?id=com.x2023021235.barber)** | Smart queuing app for barbershops with real-time updates (150+ users tested) | React Native, Node.js, Socket.io |
+| **[NumberApp](https://play.google.com/store/apps/details?id=com.x2023021235.barber)** | Smart queuing app for barbershops with real-time updates (150+ users tested) | React Native, Node.js, Socket.io |
 | **Peek-PDF** | AI-powered PDF management system with GenAI chatbot (1,200+ docs) | React, Express, Document AI |
 | **Pothole Detection** | Computer vision system using YOLOv8n (72% accuracy) | Python, Flask, OpenCV |
 
